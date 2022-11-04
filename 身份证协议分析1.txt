@@ -1,0 +1,270 @@
+2022-01-21 19:06:07.536 4137-4350/com.miaxis.faceid_cw E/IDData 开始:: --------------------------
+2022-01-21 19:06:07.536 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：1
+2022-01-21 19:06:07.536 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.536 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.546 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 01 00 39 00 36 00 38 00 30 00 37 00 32 00 34 00 6d 67 de 5d 02 5e 5f 6c 72 5e 3a 53 cc 53 f1 83 b0 65 51 67 12 ff 10 ff 62 5e 15 ff 11 ff f7 53 16 ff 10 ff 12 ff a4 5b 27 15 
+2022-01-21 19:06:07.546 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：2
+2022-01-21 19:06:07.546 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.546 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.556 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 02 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 33 00 33 00 30 00 31 00 30 00 33 00 31 00 39 00 36 00 38 00 30 00 37 00 84 04 
+2022-01-21 19:06:07.556 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：3
+2022-01-21 19:06:07.556 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.556 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.556 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 03 00 32 00 34 00 30 00 34 00 32 00 36 00 6d 67 de 5d 02 5e 6c 51 89 5b 40 5c 5f 6c 72 5e 06 52 40 5c 20 00 20 00 20 00 20 00 20 00 32 00 30 00 30 00 36 00 30 00 36 00 77 0a 
+2022-01-21 19:06:07.556 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：4
+2022-01-21 19:06:07.566 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.566 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.566 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 04 00 30 00 35 00 32 00 30 00 32 00 36 00 30 00 36 00 30 00 35 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 57 04 
+2022-01-21 19:06:07.566 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：5
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 05 00 20 00 57 4c 66 00 7e 00 32 00 00 ff 85 19 51 51 51 3e 71 0d d5 64 f3 0f 65 4d 7a 66 c7 dc c2 eb 53 d9 3c 2f 6a e2 c5 3c 43 47 e2 02 a8 d2 3d 75 e1 69 c4 71 ed a4 0e 18 
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：6
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 06 00 78 ee 7f e4 fc 81 9f 45 a3 b4 2c 0b fe 1e 23 e2 08 7e b9 0e 51 ba 93 96 33 f1 6d 55 e5 ce 04 d7 01 d1 ae da 52 51 51 5a 3e 8b 7d 2d fe db de 3b 08 05 ed df c5 c7 7f 1c 
+2022-01-21 19:06:07.576 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：7
+2022-01-21 19:06:07.586 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.586 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.586 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 07 00 9b ad dc c7 81 1b 91 00 54 a2 90 a0 73 11 03 ad 94 70 92 03 28 d3 9b da e1 46 a3 fa a5 de 0b 0b c4 6a 03 5d 1c 07 9d df 89 37 3e aa 5d 54 f7 61 e2 0f c2 9d 9b 22 03 1a 
+2022-01-21 19:06:07.586 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：8
+2022-01-21 19:06:07.586 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.586 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.596 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 08 00 09 6d 21 30 48 d0 b7 b4 05 6b 7d 1b 2e 61 90 26 23 8b 07 9c ed 17 58 e5 10 2b a9 8d 2c d0 48 81 73 5d 7e 59 d6 a6 6a 35 ff f6 14 1d 1f 8a 56 86 9d e6 94 7a 7b 76 8f 17 
+2022-01-21 19:06:07.596 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：9
+2022-01-21 19:06:07.596 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.596 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.596 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 09 00 c6 f0 94 f4 8e 3f f1 3d 35 d1 c5 2a ea 2b e5 2e 34 bd ce ea 35 8f 74 4b 1a c9 3d 10 44 91 b7 b7 64 b4 c1 df e4 10 c6 1b 26 4f 0d de 67 30 06 ce cf 28 20 c0 cc 52 84 1b 
+2022-01-21 19:06:07.596 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：10
+2022-01-21 19:06:07.606 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.606 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.606 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0a 00 6c 1c 11 63 aa 1b 61 53 29 6e b7 30 7d be 8b 3c 01 3a 8f fe 7c a8 12 99 e6 7c ed 4a 2f 60 35 3b b1 9e c6 52 70 ef 68 6b 61 0f 5c 45 5d 8d 65 0a 71 d6 0e 85 98 27 03 17 
+2022-01-21 19:06:07.606 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：11
+2022-01-21 19:06:07.606 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.606 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.616 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0b 00 b4 06 ac 45 79 c1 9b 89 ce 0e f7 fd a2 9d 2b 3e af f0 7c 04 bf 76 c1 14 78 9b c6 39 14 05 eb 0f ab f0 10 ec 60 76 32 38 4d 3a 9f d1 f5 d4 7f bd 2b 5a 76 7b 18 9e 12 1b 
+2022-01-21 19:06:07.616 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：12
+2022-01-21 19:06:07.616 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.616 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.616 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0c 00 36 d4 2b c0 1d 97 1b 0a 96 6b 82 23 4a 65 ba 5f e6 d2 48 cd 5f bc 60 21 74 6d 50 c0 55 56 36 94 05 b1 6a c9 3a df 28 23 0d 6c 98 b9 f3 cc ab f3 f2 38 6d 6c 6b e4 16 1a 
+2022-01-21 19:06:07.616 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：13
+2022-01-21 19:06:07.626 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.626 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.626 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0d 00 22 42 33 a9 0d 5d ad 1f 53 54 b6 94 a7 c5 3c 9e 12 5f 95 7c 96 52 01 68 0b 96 11 01 a8 a6 00 26 f3 0f 80 78 89 c8 5b 8e 41 13 7d a1 a5 40 a8 a5 72 9c ac de 2d e5 6f 17 
+2022-01-21 19:06:07.626 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：14
+2022-01-21 19:06:07.626 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.626 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.636 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0e 00 76 db 29 e4 d6 e5 a4 29 cc 47 b8 1a b6 6d 2a a7 74 1f 38 3e 01 1b 34 ea b3 bd a1 b4 ba 3e 22 60 70 8e 1c fd 75 15 54 e8 a5 ef 1e 5f 15 b3 e8 bf dd 66 9b fd 67 0c 33 1b 
+2022-01-21 19:06:07.636 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：15
+2022-01-21 19:06:07.636 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.636 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.636 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0f 00 b2 3e 39 14 e5 96 82 6a 6c 75 fd 34 bd 30 48 31 8e dc 3e 61 56 ef 05 e6 aa 97 8e d3 9a fd 66 bd c4 4b 77 45 c5 c9 86 c4 19 65 fa c8 04 c1 60 b9 88 59 78 f8 93 f8 96 1d 
+2022-01-21 19:06:07.636 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：16
+2022-01-21 19:06:07.646 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.646 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.656 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 10 00 1c ec d4 d7 bf 4f 32 fd 8b 46 38 6d be 86 b8 d7 34 d7 d3 2f 55 25 76 98 bd 41 75 7c 79 e9 ad b2 ec 73 56 ed 00 dc e2 1d 83 f6 5d 18 c6 51 c0 6e fe f4 58 9a 31 55 e1 1d 
+2022-01-21 19:06:07.656 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：17
+2022-01-21 19:06:07.656 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.656 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 11 00 84 fb 85 ad 62 6c ae 51 a6 77 bc 93 c0 6d 6b 6e c4 42 c0 9b 06 4a 25 a2 f4 54 ca f8 15 4a 73 a3 3d ca 57 2b c2 6e 28 2e 63 d4 35 ec 23 76 41 07 1f ae 51 65 eb 66 4d 1a 
+2022-01-21 19:06:07.706 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：18
+2022-01-21 19:06:07.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:07.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:07.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 13 00 fd e2 8b 6c 3f 88 85 e0 c6 36 79 e9 19 44 f7 26 e6 91 b0 bb 25 67 77 43 2f 24 47 02 0b 58 c4 27 7c 3e 01 df 66 8c e0 22 38 07 57 10 fb c5 5b f3 f9 09 09 84 8a 9c 2f 19 
+2022-01-21 19:06:07.706 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：19
+2022-01-21 19:06:08.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:08.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：-1
+2022-01-21 19:06:08.706 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2022-01-21 19:06:08.726 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: ++++++++++++++++++++++++1
+2022-01-21 19:06:09.866 4137-4350/com.miaxis.faceid_cw E/IDData 开始:: --------------------------
+2022-01-21 19:06:09.866 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：1
+2022-01-21 19:06:09.866 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.866 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.876 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 01 00 39 00 36 00 38 00 30 00 37 00 32 00 34 00 6d 67 de 5d 02 5e 5f 6c 72 5e 3a 53 cc 53 f1 83 b0 65 51 67 12 ff 10 ff 62 5e 15 ff 11 ff f7 53 16 ff 10 ff 12 ff a4 5b 27 15 
+2022-01-21 19:06:09.876 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：2
+2022-01-21 19:06:09.886 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.886 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.896 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 02 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 33 00 33 00 30 00 31 00 30 00 33 00 31 00 39 00 36 00 38 00 30 00 37 00 84 04 
+2022-01-21 19:06:09.896 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：3
+2022-01-21 19:06:09.896 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.896 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.906 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 03 00 32 00 34 00 30 00 34 00 32 00 36 00 6d 67 de 5d 02 5e 6c 51 89 5b 40 5c 5f 6c 72 5e 06 52 40 5c 20 00 20 00 20 00 20 00 20 00 32 00 30 00 30 00 36 00 30 00 36 00 77 0a 
+2022-01-21 19:06:09.906 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：4
+2022-01-21 19:06:09.906 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.906 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 04 00 30 00 35 00 32 00 30 00 32 00 36 00 30 00 36 00 30 00 35 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 57 04 
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：5
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 05 00 20 00 57 4c 66 00 7e 00 32 00 00 ff 85 19 51 51 51 3e 71 0d d5 64 f3 0f 65 4d 7a 66 c7 dc c2 eb 53 d9 3c 2f 6a e2 c5 3c 43 47 e2 02 a8 d2 3d 75 e1 69 c4 71 ed a4 0e 18 
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：6
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.916 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 06 00 78 ee 7f e4 fc 81 9f 45 a3 b4 2c 0b fe 1e 23 e2 08 7e b9 0e 51 ba 93 96 33 f1 6d 55 e5 ce 04 d7 01 d1 ae da 52 51 51 5a 3e 8b 7d 2d fe db de 3b 08 05 ed df c5 c7 7f 1c 
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：7
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 07 00 9b ad dc c7 81 1b 91 00 54 a2 90 a0 73 11 03 ad 94 70 92 03 28 d3 9b da e1 46 a3 fa a5 de 0b 0b c4 6a 03 5d 1c 07 9d df 89 37 3e aa 5d 54 f7 61 e2 0f c2 9d 9b 22 03 1a 
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：8
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.926 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 08 00 09 6d 21 30 48 d0 b7 b4 05 6b 7d 1b 2e 61 90 26 23 8b 07 9c ed 17 58 e5 10 2b a9 8d 2c d0 48 81 73 5d 7e 59 d6 a6 6a 35 ff f6 14 1d 1f 8a 56 86 9d e6 94 7a 7b 76 8f 17 
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：9
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 09 00 c6 f0 94 f4 8e 3f f1 3d 35 d1 c5 2a ea 2b e5 2e 34 bd ce ea 35 8f 74 4b 1a c9 3d 10 44 91 b7 b7 64 b4 c1 df e4 10 c6 1b 26 4f 0d de 67 30 06 ce cf 28 20 c0 cc 52 84 1b 
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：10
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.936 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0a 00 6c 1c 11 63 aa 1b 61 53 29 6e b7 30 7d be 8b 3c 01 3a 8f fe 7c a8 12 99 e6 7c ed 4a 2f 60 35 3b b1 9e c6 52 70 ef 68 6b 61 0f 5c 45 5d 8d 65 0a 71 d6 0e 85 98 27 03 17 
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：11
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0b 00 b4 06 ac 45 79 c1 9b 89 ce 0e f7 fd a2 9d 2b 3e af f0 7c 04 bf 76 c1 14 78 9b c6 39 14 05 eb 0f ab f0 10 ec 60 76 32 38 4d 3a 9f d1 f5 d4 7f bd 2b 5a 76 7b 18 9e 12 1b 
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：12
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.946 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0c 00 36 d4 2b c0 1d 97 1b 0a 96 6b 82 23 4a 65 ba 5f e6 d2 48 cd 5f bc 60 21 74 6d 50 c0 55 56 36 94 05 b1 6a c9 3a df 28 23 0d 6c 98 b9 f3 cc ab f3 f2 38 6d 6c 6b e4 16 1a 
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：13
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0d 00 22 42 33 a9 0d 5d ad 1f 53 54 b6 94 a7 c5 3c 9e 12 5f 95 7c 96 52 01 68 0b 96 11 01 a8 a6 00 26 f3 0f 80 78 89 c8 5b 8e 41 13 7d a1 a5 40 a8 a5 72 9c ac de 2d e5 6f 17 
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：14
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.956 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.966 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0e 00 76 db 29 e4 d6 e5 a4 29 cc 47 b8 1a b6 6d 2a a7 74 1f 38 3e 01 1b 34 ea b3 bd a1 b4 ba 3e 22 60 70 8e 1c fd 75 15 54 e8 a5 ef 1e 5f 15 b3 e8 bf dd 66 9b fd 67 0c 33 1b 
+2022-01-21 19:06:09.966 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：15
+2022-01-21 19:06:09.966 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.966 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0f 00 b2 3e 39 14 e5 96 82 6a 6c 75 fd 34 bd 30 48 31 8e dc 3e 61 56 ef 05 e6 aa 97 8e d3 9a fd 66 bd c4 4b 77 45 c5 c9 86 c4 19 65 fa c8 04 c1 60 b9 88 59 78 f8 93 f8 96 1d 
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：16
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 10 00 1c ec d4 d7 bf 4f 32 fd 8b 46 38 6d be 86 b8 d7 34 d7 d3 2f 55 25 76 98 bd 41 75 7c 79 e9 ad b2 ec 73 56 ed 00 dc e2 1d 83 f6 5d 18 c6 51 c0 6e fe f4 58 9a 31 55 e1 1d 
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：17
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 11 00 84 fb 85 ad 62 6c ae 51 a6 77 bc 93 c0 6d 6b 6e c4 42 c0 9b 06 4a 25 a2 f4 54 ca f8 15 4a 73 a3 3d ca 57 2b c2 6e 28 2e 63 d4 35 ec 23 76 41 07 1f ae 51 65 eb 66 4d 1a 
+2022-01-21 19:06:09.976 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：18
+2022-01-21 19:06:09.986 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.986 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:09.986 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 12 00 79 de 24 a6 c5 18 92 2d d4 55 d6 ca 3e b3 6b 22 fc fd e9 79 11 7a 05 4f 6d 68 87 33 f8 4e e7 12 b8 b0 14 d0 f9 c2 c2 25 97 4f cc 63 29 7a 43 a3 7c cd c9 f1 2f a4 b9 1c 
+2022-01-21 19:06:09.986 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：19
+2022-01-21 19:06:09.986 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:09.986 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:10.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 13 00 fd e2 8b 6c 3f 88 85 e0 c6 36 79 e9 19 44 f7 26 e6 91 b0 bb 25 67 77 43 2f 24 47 02 0b 58 c4 27 7c 3e 01 df 66 8c e0 22 38 07 57 10 fb c5 5b f3 f9 09 09 84 8a 9c 2f 19 
+2022-01-21 19:06:10.026 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：20
+2022-01-21 19:06:10.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:10.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:10.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 15 00 10 f0 31 3b be f3 5a 3e dd b0 b0 36 0e 80 3e 4e 47 e1 6d 45 13 1d f0 bc ea 85 a4 da 1d 71 01 dd 39 09 1c 84 c0 c5 af 02 75 f2 40 d6 67 40 ab 16 5b 28 d1 97 c1 b8 00 1a 
+2022-01-21 19:06:10.026 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：21
+2022-01-21 19:06:11.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:11.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：-1
+2022-01-21 19:06:11.026 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2022-01-21 19:06:11.046 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: ++++++++++++++++++++++++1
+2022-01-21 19:06:12.196 4137-4350/com.miaxis.faceid_cw E/IDData 开始:: --------------------------
+2022-01-21 19:06:12.196 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：1
+2022-01-21 19:06:12.196 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.196 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.196 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 01 00 39 00 36 00 38 00 30 00 37 00 32 00 34 00 6d 67 de 5d 02 5e 5f 6c 72 5e 3a 53 cc 53 f1 83 b0 65 51 67 12 ff 10 ff 62 5e 15 ff 11 ff f7 53 16 ff 10 ff 12 ff a4 5b 27 15 
+2022-01-21 19:06:12.196 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：2
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 02 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 33 00 33 00 30 00 31 00 30 00 33 00 31 00 39 00 36 00 38 00 30 00 37 00 84 04 
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：3
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 03 00 32 00 34 00 30 00 34 00 32 00 36 00 6d 67 de 5d 02 5e 6c 51 89 5b 40 5c 5f 6c 72 5e 06 52 40 5c 20 00 20 00 20 00 20 00 20 00 32 00 30 00 30 00 36 00 30 00 36 00 77 0a 
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：4
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.206 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.216 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 04 00 30 00 35 00 32 00 30 00 32 00 36 00 30 00 36 00 30 00 35 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 20 00 57 04 
+2022-01-21 19:06:12.216 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：5
+2022-01-21 19:06:12.216 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.216 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.216 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 05 00 20 00 57 4c 66 00 7e 00 32 00 00 ff 85 19 51 51 51 3e 71 0d d5 64 f3 0f 65 4d 7a 66 c7 dc c2 eb 53 d9 3c 2f 6a e2 c5 3c 43 47 e2 02 a8 d2 3d 75 e1 69 c4 71 ed a4 0e 18 
+2022-01-21 19:06:12.216 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：6
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 06 00 78 ee 7f e4 fc 81 9f 45 a3 b4 2c 0b fe 1e 23 e2 08 7e b9 0e 51 ba 93 96 33 f1 6d 55 e5 ce 04 d7 01 d1 ae da 52 51 51 5a 3e 8b 7d 2d fe db de 3b 08 05 ed df c5 c7 7f 1c 
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：7
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.226 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 07 00 9b ad dc c7 81 1b 91 00 54 a2 90 a0 73 11 03 ad 94 70 92 03 28 d3 9b da e1 46 a3 fa a5 de 0b 0b c4 6a 03 5d 1c 07 9d df 89 37 3e aa 5d 54 f7 61 e2 0f c2 9d 9b 22 03 1a 
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：8
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 08 00 09 6d 21 30 48 d0 b7 b4 05 6b 7d 1b 2e 61 90 26 23 8b 07 9c ed 17 58 e5 10 2b a9 8d 2c d0 48 81 73 5d 7e 59 d6 a6 6a 35 ff f6 14 1d 1f 8a 56 86 9d e6 94 7a 7b 76 8f 17 
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：9
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 09 00 c6 f0 94 f4 8e 3f f1 3d 35 d1 c5 2a ea 2b e5 2e 34 bd ce ea 35 8f 74 4b 1a c9 3d 10 44 91 b7 b7 64 b4 c1 df e4 10 c6 1b 26 4f 0d de 67 30 06 ce cf 28 20 c0 cc 52 84 1b 
+2022-01-21 19:06:12.236 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：10
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0a 00 6c 1c 11 63 aa 1b 61 53 29 6e b7 30 7d be 8b 3c 01 3a 8f fe 7c a8 12 99 e6 7c ed 4a 2f 60 35 3b b1 9e c6 52 70 ef 68 6b 61 0f 5c 45 5d 8d 65 0a 71 d6 0e 85 98 27 03 17 
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：11
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0b 00 b4 06 ac 45 79 c1 9b 89 ce 0e f7 fd a2 9d 2b 3e af f0 7c 04 bf 76 c1 14 78 9b c6 39 14 05 eb 0f ab f0 10 ec 60 76 32 38 4d 3a 9f d1 f5 d4 7f bd 2b 5a 76 7b 18 9e 12 1b 
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：12
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.246 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0c 00 36 d4 2b c0 1d 97 1b 0a 96 6b 82 23 4a 65 ba 5f e6 d2 48 cd 5f bc 60 21 74 6d 50 c0 55 56 36 94 05 b1 6a c9 3a df 28 23 0d 6c 98 b9 f3 cc ab f3 f2 38 6d 6c 6b e4 16 1a 
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：13
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0d 00 22 42 33 a9 0d 5d ad 1f 53 54 b6 94 a7 c5 3c 9e 12 5f 95 7c 96 52 01 68 0b 96 11 01 a8 a6 00 26 f3 0f 80 78 89 c8 5b 8e 41 13 7d a1 a5 40 a8 a5 72 9c ac de 2d e5 6f 17 
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：14
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.256 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0e 00 76 db 29 e4 d6 e5 a4 29 cc 47 b8 1a b6 6d 2a a7 74 1f 38 3e 01 1b 34 ea b3 bd a1 b4 ba 3e 22 60 70 8e 1c fd 75 15 54 e8 a5 ef 1e 5f 15 b3 e8 bf dd 66 9b fd 67 0c 33 1b 
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：15
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 0f 00 b2 3e 39 14 e5 96 82 6a 6c 75 fd 34 bd 30 48 31 8e dc 3e 61 56 ef 05 e6 aa 97 8e d3 9a fd 66 bd c4 4b 77 45 c5 c9 86 c4 19 65 fa c8 04 c1 60 b9 88 59 78 f8 93 f8 96 1d 
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：16
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 10 00 1c ec d4 d7 bf 4f 32 fd 8b 46 38 6d be 86 b8 d7 34 d7 d3 2f 55 25 76 98 bd 41 75 7c 79 e9 ad b2 ec 73 56 ed 00 dc e2 1d 83 f6 5d 18 c6 51 c0 6e fe f4 58 9a 31 55 e1 1d 
+2022-01-21 19:06:12.266 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：17
+2022-01-21 19:06:12.276 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.276 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.276 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 11 00 84 fb 85 ad 62 6c ae 51 a6 77 bc 93 c0 6d 6b 6e c4 42 c0 9b 06 4a 25 a2 f4 54 ca f8 15 4a 73 a3 3d ca 57 2b c2 6e 28 2e 63 d4 35 ec 23 76 41 07 1f ae 51 65 eb 66 4d 1a 
+2022-01-21 19:06:12.276 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：18
+2022-01-21 19:06:12.276 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.276 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 12 00 79 de 24 a6 c5 18 92 2d d4 55 d6 ca 3e b3 6b 22 fc fd e9 79 11 7a 05 4f 6d 68 87 33 f8 4e e7 12 b8 b0 14 d0 f9 c2 c2 25 97 4f cc 63 29 7a 43 a3 7c cd c9 f1 2f a4 b9 1c 
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：19
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 13 00 fd e2 8b 6c 3f 88 85 e0 c6 36 79 e9 19 44 f7 26 e6 91 b0 bb 25 67 77 43 2f 24 47 02 0b 58 c4 27 7c 3e 01 df 66 8c e0 22 38 07 57 10 fb c5 5b f3 f9 09 09 84 8a 9c 2f 19 
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：20
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 14 00 cc 9e 9e 74 84 8e d4 a5 ab 2d fb 60 ea fe b7 02 06 5f f6 f4 d1 8d c0 e7 e1 c5 e1 f4 9b 20 79 39 15 c2 62 23 2f ff 52 4f b5 52 2f dc 34 f8 98 20 74 66 5a 75 4e df 5b 1e 
+2022-01-21 19:06:12.286 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：21
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 15 00 10 f0 31 3b be f3 5a 3e dd b0 b0 36 0e 80 3e 4e 47 e1 6d 45 13 1d f0 bc ea 85 a4 da 1d 71 01 dd 39 09 1c 84 c0 c5 af 02 75 f2 40 d6 67 40 ab 16 5b 28 d1 97 c1 b8 00 1a 
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：22
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 16 00 93 ff dd 3b e1 c2 06 ee 9b a1 63 c5 35 71 68 e5 08 d5 b9 05 94 f0 8a ed a4 58 fd d0 bf fa 6c 8f 92 3e 5a 3e 04 15 86 bb 36 c1 90 1e 23 b5 7b 57 24 81 a6 36 b2 33 71 1c 
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：23
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.296 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.306 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 39 00 00 17 00 16 bc 95 ec c7 7b 44 43 3d 02 ef 0b d3 9d cf 52 10 ac 40 21 04 d3 1f b4 d7 66 30 10 e5 5b 09 a2 f6 9c 9d e2 78 ff 15 86 a8 a7 cd f5 3a cb e5 99 7e 38 47 d9 5e 22 72 1b 
+2022-01-21 19:06:12.306 4137-4350/com.miaxis.faceid_cw E/IDData 结束:: 包数：24
+2022-01-21 19:06:12.306 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.306 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.306 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 04 00 00 18 00 71 8d 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2022-01-21 19:06:12.336 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.336 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：-1
+2022-01-21 19:06:12.366 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2022-01-21 19:06:12.376 4137-4350/com.miaxis.faceid_cw E/IDData 发送:: 预计长度：64
+2022-01-21 19:06:12.376 4137-4350/com.miaxis.faceid_cw E/IDData 发送:: 实际长度：64
+2022-01-21 19:06:12.386 4137-4350/com.miaxis.faceid_cw E/IDData 发送:: >>>>88 00 00 0c 00 b1 aa aa aa 96 69 00 04 fa 11 00 ef b8 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+2022-01-21 19:06:12.386 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 预计长度：64
+2022-01-21 19:06:12.386 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: 实际长度：64
+2022-01-21 19:06:12.386 4137-4350/com.miaxis.faceid_cw E/IDData 接收:: <<<<aa 00 00 0e 00 00 00 00 aa aa aa 96 69 00 04 00 00 90 94 33 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
